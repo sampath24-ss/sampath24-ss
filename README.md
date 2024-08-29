@@ -2,7 +2,13 @@
 #### Full Stack Developer
 ![Full Stack Developer](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp)
 
-I'm Sampath and I am a full stack developer. I really enjoy learning new languages and frameworks and building projects.
+👨🏻‍💻Hey everyone, I’m Sampath. I’m a full stack developer who loves diving into new technologies and building cool stuff. Always excited to learn and create something awesome!
+🚀 Full Stack Developer | MERN Stack Enthusiast
+💡 Specializing in the MERN stack with deep experience in MongoDB, Express.js, React, and Node.js. I've spent the last few months mastering full-stack development, including Firebase, JWT, and Prisma ORM.
+🌐 Currently enhancing my skills with Next.js, focused on creating scalable, efficient web applications.
+💼 While my core focus is on development, I have a strong interest in product development and how technology can drive business success.
+
+
 
 Skills and Experience
 * Next.js
@@ -11,8 +17,6 @@ Skills and Experience
 * Node.js
 * MongoDB
 * Express.js
-
-- 🔭 I’m currently working on Full stack development 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://zcodeblog.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sampath-maheshwara-a1bb551b3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/sxmpath_)  
