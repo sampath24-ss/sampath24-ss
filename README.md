@@ -1,4 +1,4 @@
-### Hi there 👋,i am Maheshwara Sampath
+### Hi there 👋,I am Maheshwara Sampath
 #### Full Stack Developer
 ![Full Stack Developer](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp)
 
