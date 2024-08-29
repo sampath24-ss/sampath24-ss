@@ -1,10 +1,16 @@
-### Hi there 👋, Maheshwara Sampath
+### Hi there 👋,i am Maheshwara Sampath
 #### Full Stack Developer
 ![Full Stack Developer](https://cdn.prod.website-files.com/6344c9cef89d6f2270a38908/64dfc8162b86aaaa4236ed07_Header.webp)
 
 I'm Sampath and I am a full stack developer. I really enjoy learning new languages and frameworks and building projects.
 
-Skills: Next.js/ REACT / JS / Node.js /MongoDB /Express.js
+Skills and Experience
+* Next.js
+* REACT
+* JS
+* Node.js
+* MongoDB
+* Express.js
 
 - 🔭 I’m currently working on Full stack development 
 
