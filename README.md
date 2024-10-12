@@ -9,11 +9,18 @@
 
 
 
-👨🏻‍💻Hey everyone, I’m Sampath. I’m a full stack developer who loves diving into new technologies and building cool stuff. Always excited to learn and create something awesome!
-🚀 Full Stack Developer | MERN Stack Enthusiast
-💡 Specializing in the MERN stack with deep experience in MongoDB, Express.js, React, and Node.js. I've spent the last few months mastering full-stack development, including Firebase, JWT, and Prisma ORM.
-🌐 Currently enhancing my skills with Next.js, focused on creating scalable, efficient web applications.
-💼 While my core focus is on development, I have a strong interest in product development and how technology can drive business success.
+👨🏻‍💻 Hey everyone, I’m Sampath, a passionate full-stack developer always exploring new technologies and building innovative solutions. 🚀
+
+🔧 Full Stack Developer | MERN Stack Enthusiast
+Specialized in MongoDB, Express.js, React, and Node.js, with recent experience mastering full-stack development using Firebase, JWT, and Prisma ORM.
+
+🌐 Currently enhancing my skills in Next.js
+I’m focused on developing scalable, efficient web applications and diving deeper into creating seamless user experiences.
+
+💼 Beyond coding
+I’m equally passionate about product development and how technology can be harnessed to drive business growth and success.
+
+Always excited to learn and create something impactful!
 
 
 
