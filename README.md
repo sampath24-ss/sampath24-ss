@@ -49,12 +49,10 @@ Always excited to learn and create something impactful!
 
 
 
-
-
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sampath24-ss&theme=dark&background=000000)](https://git.io/streak-stats)
-
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sampath24-ss&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hashnode.svg' alt='dev' height='40'>](https://zcodeblog.hashnode.dev/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/linkedin.com/in/sampath-maheshwara-a1bb551b3/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/sxmpath_)  
 
